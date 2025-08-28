@@ -1,4 +1,4 @@
-.head {
+.page1 {
   display: flex;
   justify-content: center;
   justify-content: space-between;
@@ -23,6 +23,108 @@
   background-image: url(/iphone.jpg);
   height: 500px;
   width: 100%;
+  display: flex;
   background-size: cover;
   background-position: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: end;
+}
+.name {
+  color: white;
+  text-align: center;
+  font-family: Inter;
+  font-size: 30px;
+}
+.name1 {
+  color: white;
+  text-align: center;
+  font-family: Inter;
+  font-size: 18px;
+  padding-bottom: 16px;
+}
+.xxe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 36px;
+}
+.name2 {
+  border-radius: 999px;
+  background: #0071e3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 107px;
+  height: 36px;
+  font-size: 14px;
+  font-family: inter;
+  color: white;
+}
+.name3 {
+  width: 66px;
+  height: 36px;
+  border: 1px solid #2997ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 999px;
+  font-size: 14px;
+  font-family: inter;
+  color: #2997ff;
+}
+.page2 {
+  background-image: url(/iphone2.jpg);
+  background-size: cover;
+  height: 500px;
+  background-position: center;
+  padding: 36px;
+}
+.name4 {
+  border-radius: 999px;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 107px;
+  height: 36px;
+  font-size: 14px;
+  font-family: inter;
+  color: black;
+}
+.name5 {
+  width: 66px;
+  height: 36px;
+  border: 1px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 999px;
+  font-size: 14px;
+  font-family: inter;
+  color: white;
+}
+.page3 {
+  background-image: url(/ipad\ air.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+.name6 {
+  display: flex;
+  width: 390px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 8px;
+}
+.font1 {
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
 }
