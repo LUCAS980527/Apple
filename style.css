@@ -117,7 +117,6 @@
 }
 .name6 {
   display: flex;
-  width: 390px;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -267,7 +266,7 @@
   gap: 12px;
 }
 .page7 {
-  background-image: url(/Figure.png);
+  background-image: url(/hulga.png);
   background-size: cover;
   background-position: center;
   height: 500px;
@@ -428,4 +427,53 @@
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
+}
+@media (min-width: 768px) {
+  .picture {
+    background-image: url(./horizon1.jpg);
+    height: 650px;
+    justify-content: start;
+    padding-top: 58px;
+  }
+  .page2 {
+    background-image: url(/horizon2.jpg);
+  }
+  .page3 {
+    background-image: url(/horizon3.jpg);
+  }
+  .tab1 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  .page4 {
+    width: 50%;
+  }
+  .page5 {
+    width: 50%;
+    margin-top: 22px;
+  }
+  .tab2 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  .page6 {
+    width: 50%;
+    padding: 0px;
+  }
+  .page7 {
+    width: 50%;
+  }
+  .tab3 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  .page8 {
+    width: 50%;
+  }
+  .page9 {
+    width: 50%;
+  }
 }
