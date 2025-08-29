@@ -391,6 +391,46 @@
   width: 274px;
   height: 495px;
 }
+.picture1 {
+  background-image: url(/source/picture1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.picture2 {
+  background-image: url(/source/picture2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.picture3 {
+  background-image: url(/source/picture3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.picture4 {
+  background-image: url(/source/picture4.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.picture5 {
+  background-image: url(/source/picture5.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.picture6 {
+  background-image: url(/source/picture6.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.picture7 {
+  background-image: url(/source/picture7.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.picture8 {
+  background-image: url(/source/picture8.jpg);
+  background-position: center;
+  background-size: cover;
+}
 .scroll {
   width: fit-content;
 }
@@ -475,5 +515,121 @@
   }
   .page9 {
     width: 50%;
+  }
+  .tablet1 {
+    display: block !important;
+  }
+  .tablet2 {
+    display: block !important;
+  }
+  .tablet3 {
+    display: block !important;
+  }
+  .tablet4 {
+    display: block !important;
+  }
+  .tablet5 {
+    display: block !important;
+  }
+  .tablet6 {
+    display: block !important;
+  }
+  .tablet7 {
+    display: block !important;
+  }
+  .tablet8 {
+    display: block !important;
+  }
+  .tablet9 {
+    display: block !important;
+  }
+  .tablet10 {
+    display: block !important;
+  }
+  .tablet1 {
+    background-image: url(/Apple/source/ted\ lasso.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 689px;
+    height: 368px;
+    display: none;
+  }
+  .tablet2 {
+    background-image: url(/Apple/source/blitz.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 689px;
+    height: 368px;
+    display: none;
+  }
+  .tablet3 {
+    background-image: url(/Apple/source/silo.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 689px;
+    height: 368px;
+    display: none;
+  }
+  .tablet4 {
+    background-image: url(./Apple/source/bad-sisters.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 689px;
+    height: 368px;
+    display: none;
+  }
+  .tablet5 {
+    background-image: url(./Apple/source/shrinking.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 689px;
+    height: 368px;
+    display: none;
+  }
+  .tablet6 {
+    background-image: url(./Apple/source/seoson\ pass.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 689px;
+    height: 368px;
+    display: none;
+  }
+  .tablet7 {
+    background-image: url(./Apple/source/charlie\ brpwn.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 689px;
+    height: 368px;
+    display: none;
+  }
+  .tablet8 {
+    background-image: url(./Apple/source/disclaimer.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 689px;
+    height: 368px;
+    display: none;
+  }
+  .tablet9 {
+    background-image: url(./Apple/source/slow\ horses.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 689px;
+    height: 368px;
+    display: none;
+  }
+  .tablet10 {
+    background-image: url(./Apple/source/bread\ roses.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 689px;
+    height: 368px;
+    display: none;
+  }
+  .display-none {
+    display: none;
+  }
+  .scroll {
+    height: 368px;
   }
 }
