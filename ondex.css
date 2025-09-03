@@ -1,0 +1,250 @@
+.page1 {
+  width: 1024px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.button {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+}
+.head2 {
+  display: flex;
+  gap: 24px;
+}
+.wow {
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 400;
+}
+.section {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section1 {
+  background-image: url(/colorful.png);
+  background-position: center;
+  background-size: cover;
+  height: 75px;
+  width: 100%;
+}
+.section2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 80px;
+}
+.name1 {
+  background: linear-gradient(90deg, #0090f7 0%, #ba62fc 50%, #f2416b 100%);
+  font-family: Inter;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+  width: 129px;
+  height: 52px;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.name2 {
+  color: #6e6e73;
+  font-family: Inter;
+  font-size: 44px;
+  font-weight: 700;
+  width: 494px;
+  height: 52px;
+}
+.name3 {
+  background-image: url(/tseejzurag.png);
+  background-size: cover;
+  background-position: center;
+  width: 70px;
+  height: 70px;
+}
+.name5 {
+  color: black;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+}
+.name6 {
+  color: #06c;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 142.857% */
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-skip-ink: auto;
+  text-decoration-thickness: auto;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+}
+.section3 {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 80px;
+  overflow: scroll;
+}
+.name7 {
+  width: 136px;
+  height: 146px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.section4 {
+  overflow: scroll;
+}
+.name8 {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  background: linear-gradient(90deg, #0090f7 0%, #ba62fc 50%, #f2416b 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 131px;
+  height: 34px;
+}
+.name9 {
+  color: #6e6e73;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+}
+.name8-9 {
+  display: flex;
+  margin-top: 60px;
+  gap: 10px;
+}
+.name10 {
+  background-image: url(/iphone16.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 480px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 18px;
+}
+.name11 {
+  color: #b64400;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px;
+}
+.name12 {
+  color: #1d1d1f;
+  font-family: Inter;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0.196px;
+}
+.name13 {
+  color: #1d1d1f;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.196px;
+}
+.name14 {
+  background-image: url(/iwatch.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 480px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 18px;
+}
+.name15 {
+  background-image: url(/ipadmini.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 480px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 18px;
+}
+.name16 {
+  background-image: url(/macbookpro.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 480px;
+  height: 500px;
+  border-radius: 18px;
+  display: flex;
+  flex-direction: column;
+}
+.gg1 {
+  width: 2500px;
+  display: flex;
+  gap: 20px;
+  overflow: scroll;
+}
+.frame1 {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.frame2 {
+  margin-top: 54px;
+  margin-left: 30px;
+}
+.name17 {
+  background-image: url(/zz1.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 400px;
+  height: 500px;
+}
+.name18 {
+  width: 313px;
+  height: 500px;
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 2px 4px 12px 0 rgba(0, 0, 0, 0.08);
+}
+.name19 {
+  width: 313px;
+  height: 500px;
+}
+.name20 {
+  width: 313px;
+  height: 500px;
+}
+.name21 {
+  width: 313px;
+  height: 500px;
+}
+.frame3 {
+  display: flex;
+  width: 1920px;
+  gap: 20px;
+  overflow: scroll;
+}
