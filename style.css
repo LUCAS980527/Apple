@@ -720,6 +720,11 @@
     width: 1250px;
     height: 668px;
   }
+  .page1 {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
 }
 .nemelt1 {
   background-image: url(/1920-3.jpg);
