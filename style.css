@@ -638,7 +638,7 @@
     display: none;
   }
 }
-@media (min-width: 1920px) {
+@media (min-width: 1024px) {
   .picture {
     background-image: url(./1920-1.jpg);
     background-position: center;
@@ -777,7 +777,7 @@
   flex-direction: column;
   gap: 8px;
 }
-@media (max-width: 1920px) {
+@media (max-width: 1024px) {
   .nemelt2 {
     display: none;
   }
@@ -921,6 +921,7 @@
 .zuragnuud {
   display: flex;
   gap: 16px;
+  overflow: scroll;
 }
 .zurag1 {
   background-image: url(/image1.jpg);
